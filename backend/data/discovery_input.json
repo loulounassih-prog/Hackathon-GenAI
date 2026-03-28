@@ -1,0 +1,8 @@
+{
+  "role_keywords": ["machine learning engineer", "ai engineer"],
+  "skills": ["python", "fastapi", "llm", "rag"],
+  "locations": ["berlin", "remote"],
+  "companies": [],
+  "domains_of_interest": ["github.com"],
+  "max_results": 40
+}

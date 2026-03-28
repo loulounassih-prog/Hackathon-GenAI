@@ -1,0 +1,610 @@
+[
+  {
+    "reference": "8e8606812cf98595a66cdfa486d7b150",
+    "source_type": "public_web",
+    "source_url": "https://tiangolo.com/",
+    "title": "tiangolo's boring personal website",
+    "text": "Hey! I'm @tiangolo (Sebastián Ramírez). 👋\nYou are probably looking for my open source projects.\nI'm a software developer from Colombia. 🇨🇴\nI currently live in Berlin, Germany. 🇩🇪\nI created FastAPI, Typer, SQLModel, Asyncer, and a bunch of other open source tools. 🚀\nI have been building APIs and tools for Machine Learning and data systems, in the Americas, the Middle East, and Europe, with different teams and organizations. 🌎\nI'm now working full time on my open source projects and the ecosystem. 🤓",
+    "summary_hint": "I'm @tiangolo (Sebastián Ramírez). 👋\nYou are probably looking for my open source projects. I'm a software developer from Colombia.",
+    "emails": [],
+    "links": [
+      "https://tiangolo.com/projects/",
+      "https://asyncer.tiangolo.com",
+      "https://fastapi.tiangolo.com",
+      "https://sqlmodel.tiangolo.com",
+      "https://twitter.com/tiangolo",
+      "https://typer.tiangolo.com"
+    ],
+    "metadata": {
+      "page_title": "tiangolo's boring personal website",
+      "meta_description": "Stuff by tiangolo",
+      "content_markers": [],
+      "github_username": "",
+      "profile_name": "Sebastián Ramírez",
+      "company": "",
+      "location": "Berlin, Germany",
+      "blog": "",
+      "scraping_status": "success",
+      "candidate_reasons": "strong_first_person_bio",
+      "source_format": "html",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": []
+  },
+  {
+    "reference": "161f11a0cb2b9f60051321a4829b8aff",
+    "source_type": "public_web",
+    "source_url": "https://karpathy.ai/",
+    "title": "Andrej Karpathy",
+    "text": "OpenAI where I built a new team working on midtraining and synthetic data generation.\n2015 - 2017\nI was a research scientist and a founding member at\nOpenAI.\n2011 - 2015\nMy PhD was focused on convolutional/recurrent neural networks and their applications in computer vision, natural language processing and their intersection. My adviser was\nFei-Fei Li at the Stanford Vision Lab and I also had the pleasure to work with\nDaphne Koller,\nAndrew Ng,\nSebastian Thrun and\nVladlen Koltun along the way during the first year rotation program.\nI designed and was the primary instructor for the first deep learning class Stanford -\nCS 231n: Convolutional Neural Networks for Visual Recognition. The class became one of the largest at Stanford and has grown from 150 enrolled in 2015 to 330 students in 2016, and 750 students in 2017.\nAlong the way I squeezed in 3 internships at (baby) Google Brain in 2011 working on learning-scale unsupervised learning from videos, then again in Google Research in 2013 working on large-scale supervised learning on YouTube videos, and finally at DeepMind in 2015 working on the deep reinforcement learning team with\nKoray Kavukcuoglu and\nVlad Mnih.\n2009 - 2011\nMSc at the University of British Columbia where I worked with\nMichiel van de Panne on learning controllers for physically-simulated figures (i.e., machine-learning for agile robotics but in a physical simulation).\n2005 - 2009\nBSc at the University of Toronto with a double major in computer science and physics and a minor in math. This is where I first got into deep learning, attending\nGeoff Hinton's class and reading groups.",
+    "summary_hint": "OpenAI where I built a new team working on midtraining and synthetic data generation. 2015 - 2017\nI was a research scientist and a founding member at\nOpenAI. 2011 - 2015\nMy PhD was focused on convolutional/recurrent neural networks and their applications in computer vision, natural language processing and their intersection.",
+    "emails": [],
+    "links": [
+      "https://gist.github.com/karpathy/d4dee566867f8291f086",
+      "https://github.com/jcjohnson/densecap",
+      "https://github.com/karpathy",
+      "https://github.com/karpathy/arxiv-sanity-preserver",
+      "https://github.com/karpathy/char-rnn",
+      "https://github.com/karpathy/covid-sanity",
+      "https://github.com/karpathy/micrograd",
+      "https://github.com/karpathy/neuraltalk2"
+    ],
+    "metadata": {
+      "page_title": "Andrej Karpathy",
+      "meta_description": "",
+      "content_markers": [
+        "publications",
+        "teaching"
+      ],
+      "github_username": "",
+      "profile_name": "Andrej Karpathy",
+      "company": "",
+      "location": "",
+      "blog": "",
+      "scraping_status": "success",
+      "candidate_reasons": "strong_first_person_bio",
+      "source_format": "html",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": []
+  },
+  {
+    "reference": "bfab30d4fe335358ad46719beb90a2f6",
+    "source_type": "public_web",
+    "source_url": "https://www.cs.cmu.edu/~tom/",
+    "title": "Tom Mitchell's Home Page",
+    "text": "How will they impact us all? As a longtime researcher in AI, I'm excited about the ways in\nwhich these new AI systems can improve our healthcare, education, climate and more. At the same\ntime, we need to think carefully about how to use them and how to prevent their misuse.\nI oppose recent suggestions that we simply ban their development, but I support and participate in\nefforts to anticipate their possible uses and impacts, and to help our leaders think through how\ngovernments should react.\nIt will be useful to regulate AI, but primarily at the application level. For example, AI\napplications to medical diagnosis should be regulated very differently from AI applications to\nself-driving cars.\nU.S. National Academies report\non AI and the Future of\nWork, study co-chairs Tom Mitchell and Erik Brynjolfsson, November 2024.\nA short fireside chat I had\nwith Reid Hoffman, moderated by Ryan Heath about what is next for Generative AI,\nfrom the SCSP Global Emerging Technology Summit, Washington D.C., September 21, 2023.\nHow can AI improve education? Watch my 2025 UCL Peter Kirstein lecture: Where Can AI Take Education by\n2030?. My thesis: this is the decade when AI will truly revolutionize online education. Why?\nBecause (1) for the first time we have finally have online education sites that have taught\nmillions of students, providing more training data showing how students learn, than a human\nteacher could ever see in a 100-year teaching career, and (2) recent AI advances in machine\nlearning, large natural language models, and reasoning give us the right tools to build AI agents\nthat tutor online students. ...\nHere are some problems I've been working on with my collaborators:\nUsing Large Language Models like GPT-4 to build new online education systems.\nLearning which teaching actions produce best learning outcomes. In January 2023 we deployed\nour trained model on the CK12.org platform, and it has\nnow been used well over a million times to choose the right hint for students struggling to\nanswer specific questions.\nHow does the brain represent language meaning? We collect images of brain activity while\nhuman subjects read text, then use machine learning to analyze how observed brain activity\nrepresents language meaning.\n...",
+    "summary_hint": "How will they impact us all? As a longtime researcher in AI, I'm excited about the ways in\nwhich these new AI systems can improve our healthcare, education, climate and more. At the same\ntime, we need to think carefully about how to use them and how to prevent their misuse.",
+    "emails": [
+      "Tom.Mitchell@cmu.edu"
+    ],
+    "links": [
+      "http://www.cs.cmu.edu/%7Etom/science2008/",
+      "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html",
+      "https://www.cs.cmu.edu/directory/jteets",
+      "https://www.cs.cmu.edu/~tom/TomMitchell_PhDstudents.htm",
+      "https://www.cs.cmu.edu/~tom/podcast/",
+      "https://www.cs.cmu.edu/~tom/publications.html",
+      "http://statcounter.com/free-web-stats/",
+      "http://www.ml.cmu.edu"
+    ],
+    "metadata": {
+      "page_title": "Tom Mitchell's Home Page",
+      "meta_description": "",
+      "content_markers": [
+        "publications"
+      ],
+      "github_username": "",
+      "profile_name": "Tom Mitchell",
+      "company": "",
+      "location": "",
+      "blog": "",
+      "scraping_status": "success",
+      "candidate_reasons": "profile_path_and_keywords",
+      "source_format": "html",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": []
+  },
+  {
+    "reference": "5c463d79f4dff3c6c5cadad8e0f72992",
+    "source_type": "github",
+    "source_url": "https://github.com/tfriedel",
+    "title": "Thomas Friedel - GitHub",
+    "text": "GitHub Profile: Thomas Friedel (tfriedel)\nBio: Machine Learning Engineer\nCompany: PEAT\nLocation: Berlin\nTop Languages: Python, Java, C\n\nTop Projects:\n- trackanalyzer (61 stars, Java): java command line tool for estimating musical key and bpm of digital recordings, to aid DJs in harmonic mixing.\n- neural-image-assessment (21 stars, Python): Implementation of NIMA: Neural Image Assessment in Keras\n- python-lightify (18 stars, Python): Python module for Osram lightify. This is a work in progress.\n- foobar2000-export (14 stars, Java): I reverse engineered the foobar2000 database and playlist formats. You can export to m3u playlists for example.\n- tweethoarder (3 stars, Python): dumps twitter likes & bookmarks\n- blensor (2 stars, C): Blender Sensor Simulation\n- claude-office-skills (438 stars, Python): Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support\n- antigravity_prompts (25 stars): Reverse-engineered prompts and analysis from Antigravity (Google's VS Code fork with AI)",
+    "summary_hint": "Machine Learning Engineer",
+    "emails": [],
+    "links": [
+      "https://twitter.com/thomascygn"
+    ],
+    "metadata": {
+      "page_title": "Thomas Friedel - GitHub",
+      "meta_description": "Machine Learning Engineer",
+      "content_markers": [],
+      "github_username": "tfriedel",
+      "profile_name": "Thomas Friedel",
+      "company": "PEAT",
+      "location": "Berlin",
+      "blog": "https://twitter.com/thomascygn",
+      "scraping_status": "success",
+      "candidate_reasons": "github_profile_api",
+      "source_format": "github_api",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": [
+      {
+        "name": "trackanalyzer",
+        "url": "https://github.com/tfriedel/trackanalyzer",
+        "description": "java command line tool for estimating musical key and bpm of digital recordings, to aid DJs in harmonic mixing.",
+        "language": "Java",
+        "stars": 61,
+        "topics": []
+      },
+      {
+        "name": "neural-image-assessment",
+        "url": "https://github.com/tfriedel/neural-image-assessment",
+        "description": "Implementation of NIMA: Neural Image Assessment in Keras",
+        "language": "Python",
+        "stars": 21,
+        "topics": []
+      },
+      {
+        "name": "python-lightify",
+        "url": "https://github.com/tfriedel/python-lightify",
+        "description": "Python module for Osram lightify. This is a work in progress.",
+        "language": "Python",
+        "stars": 18,
+        "topics": []
+      },
+      {
+        "name": "foobar2000-export",
+        "url": "https://github.com/tfriedel/foobar2000-export",
+        "description": "I reverse engineered the foobar2000 database and playlist formats. You can export to m3u playlists for example.",
+        "language": "Java",
+        "stars": 14,
+        "topics": []
+      },
+      {
+        "name": "tweethoarder",
+        "url": "https://github.com/tfriedel/tweethoarder",
+        "description": "dumps twitter likes & bookmarks",
+        "language": "Python",
+        "stars": 3,
+        "topics": []
+      },
+      {
+        "name": "blensor",
+        "url": "https://github.com/tfriedel/blensor",
+        "description": "Blender Sensor Simulation",
+        "language": "C",
+        "stars": 2,
+        "topics": []
+      },
+      {
+        "name": "claude-office-skills",
+        "url": "https://github.com/tfriedel/claude-office-skills",
+        "description": "Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support",
+        "language": "Python",
+        "stars": 438,
+        "topics": []
+      },
+      {
+        "name": "antigravity_prompts",
+        "url": "https://github.com/tfriedel/antigravity_prompts",
+        "description": "Reverse-engineered prompts and analysis from Antigravity (Google's VS Code fork with AI)",
+        "language": "",
+        "stars": 25,
+        "topics": []
+      }
+    ]
+  },
+  {
+    "reference": "10541bbd89516d2214ada3cc667f9dd9",
+    "source_type": "github",
+    "source_url": "https://github.com/iamirmasoud",
+    "title": "Amir Masoud Sefidian - GitHub",
+    "text": "GitHub Profile: Amir Masoud Sefidian (iamirmasoud)\nBio: Machine Learning Engineer\nCompany: Vinted\nLocation: Berlin\nTop Languages: Python, Jupyter Notebook\n\nTop Projects:\n- image_captioning (23 stars, Jupyter Notebook): Automatic Image Captioning using PyTorch on MS COCO dataset\n- bulkboto3 (19 stars, Python): Python package for fast and parallel transferring a bulk of files to S3 based on boto3!\n- facial_keypoint_detection (7 stars, Jupyter Notebook): Facial Keypoint Detection using PyTorch\n- pyspark_tutorials (6 stars, Jupyter Notebook): Machine Learning for Big Data using PySpark with real-world projects\n- amazon_sentiment (5 stars, Jupyter Notebook): Sentiment Analysis on Amazon Reviews Dataset in PyTorch\n- graph_slam (2 stars, Jupyter Notebook): 2D Landmark Detection & Robot Tracking using Offline and Online Graph SLAM (Simultaneous Localization and Mapping)\n- energy_consumption_prediction (69 stars, Jupyter Notebook): Energy consumption prediction using LSTM/GRU networks in PyTorch\n- image_deduplicator (5 stars, Jupyter Notebook): Find and remove duplicated or very similar images from a directory using PyTorch",
+    "summary_hint": "Machine Learning Engineer",
+    "emails": [],
+    "links": [
+      "http://www.sefidian.com/"
+    ],
+    "metadata": {
+      "page_title": "Amir Masoud Sefidian - GitHub",
+      "meta_description": "Machine Learning Engineer",
+      "content_markers": [],
+      "github_username": "iamirmasoud",
+      "profile_name": "Amir Masoud Sefidian",
+      "company": "Vinted",
+      "location": "Berlin",
+      "blog": "http://www.sefidian.com/",
+      "scraping_status": "success",
+      "candidate_reasons": "github_profile_api",
+      "source_format": "github_api",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": [
+      {
+        "name": "image_captioning",
+        "url": "https://github.com/iamirmasoud/image_captioning",
+        "description": "Automatic Image Captioning using PyTorch on MS COCO dataset",
+        "language": "Jupyter Notebook",
+        "stars": 23,
+        "topics": []
+      },
+      {
+        "name": "bulkboto3",
+        "url": "https://github.com/iamirmasoud/bulkboto3",
+        "description": "Python package for fast and parallel transferring a bulk of files to S3 based on boto3!",
+        "language": "Python",
+        "stars": 19,
+        "topics": []
+      },
+      {
+        "name": "facial_keypoint_detection",
+        "url": "https://github.com/iamirmasoud/facial_keypoint_detection",
+        "description": "Facial Keypoint Detection using PyTorch",
+        "language": "Jupyter Notebook",
+        "stars": 7,
+        "topics": []
+      },
+      {
+        "name": "pyspark_tutorials",
+        "url": "https://github.com/iamirmasoud/pyspark_tutorials",
+        "description": "Machine Learning for Big Data using PySpark with real-world projects",
+        "language": "Jupyter Notebook",
+        "stars": 6,
+        "topics": []
+      },
+      {
+        "name": "amazon_sentiment",
+        "url": "https://github.com/iamirmasoud/amazon_sentiment",
+        "description": "Sentiment Analysis on Amazon Reviews Dataset in PyTorch",
+        "language": "Jupyter Notebook",
+        "stars": 5,
+        "topics": []
+      },
+      {
+        "name": "graph_slam",
+        "url": "https://github.com/iamirmasoud/graph_slam",
+        "description": "2D Landmark Detection & Robot Tracking using Offline and Online Graph SLAM (Simultaneous Localization and Mapping)",
+        "language": "Jupyter Notebook",
+        "stars": 2,
+        "topics": []
+      },
+      {
+        "name": "energy_consumption_prediction",
+        "url": "https://github.com/iamirmasoud/energy_consumption_prediction",
+        "description": "Energy consumption prediction using LSTM/GRU networks in PyTorch",
+        "language": "Jupyter Notebook",
+        "stars": 69,
+        "topics": [
+          "deep-learning",
+          "deep-neural-networks",
+          "energy-consumption",
+          "gru",
+          "lstm",
+          "prediction",
+          "python",
+          "pytorch",
+          "recurrent-neural-networks",
+          "time-series"
+        ]
+      },
+      {
+        "name": "image_deduplicator",
+        "url": "https://github.com/iamirmasoud/image_deduplicator",
+        "description": "Find and remove duplicated or very similar images from a directory using PyTorch",
+        "language": "Jupyter Notebook",
+        "stars": 5,
+        "topics": [
+          "cnn",
+          "computer-vision",
+          "convolutional-neural-networks",
+          "dbscan",
+          "deduplication",
+          "deep-learning",
+          "image-processing",
+          "machine-learning",
+          "python",
+          "pytorch"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "98c82160fce8840c8593479354fcfa7a",
+    "source_type": "github",
+    "source_url": "https://github.com/davidsbatista",
+    "title": "David S. Batista - GitHub",
+    "text": "GitHub Profile: David S. Batista (davidsbatista)\nBio: Software Developer | NLP Engineer | Machine Learning @deepset-ai \nCompany: @deepset-ai\nLocation: Berlin, Germany\nTop Languages: Python\n\nTop Projects:\n- Annotated-Semantic-Relationships-Datasets (705 stars): A collections of public and free annotated datasets of relationships between entities/nominals (Portuguese and English)\n- NER-datasets (345 stars, Python): Datasets to train supervised classifiers for Named-Entity Recognition in different languages (Portuguese, German, Dutch, French, English)\n- MantisAI/nervaluate (207 stars, Python): Full named-entity (i.e., not tag/token) evaluation metrics based on SemEval’13\n- Snowball (178 stars, Python): Implementation with some extensions of the paper \"Snowball: Extracting Relations from Large Plain-Text Collections\" (Agichtein and Gravano, 2000)\n- BREDS (142 stars, Python): \"Bootstrapping Relationship Extractors with Distributional Semantics\" (Batista et al., 2015) in EMNLP'15 - Python implementation\n- haystack-retrieval (7 stars, Python): Different retrieval techniques implemented in Haystack - presented at PyCon Lithuania 2025 🇱🇹\n- NER-Evaluation (222 stars, Python): An implementation of a full named-entity evaluation metrics based on SemEval'13 Task 9 - not at tag/token level but considering all the tokens that are part of the named-entity\n- Aspect-Based-Sentiment-Analysis (133 stars, Python): Aspect-Based Sentiment Analysis Experiments",
+    "summary_hint": "Software Developer | NLP Engineer | Machine Learning @deepset-ai ",
+    "emails": [],
+    "links": [
+      "https://www.davidsbatista.net"
+    ],
+    "metadata": {
+      "page_title": "David S. Batista - GitHub",
+      "meta_description": "Software Developer | NLP Engineer | Machine Learning @deepset-ai ",
+      "content_markers": [],
+      "github_username": "davidsbatista",
+      "profile_name": "David S. Batista",
+      "company": "@deepset-ai",
+      "location": "Berlin, Germany",
+      "blog": "https://www.davidsbatista.net",
+      "scraping_status": "success",
+      "candidate_reasons": "github_profile_api",
+      "source_format": "github_api",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": [
+      {
+        "name": "Annotated-Semantic-Relationships-Datasets",
+        "url": "https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets",
+        "description": "A collections of public and free annotated datasets of relationships between entities/nominals (Portuguese and English)",
+        "language": "",
+        "stars": 705,
+        "topics": []
+      },
+      {
+        "name": "NER-datasets",
+        "url": "https://github.com/davidsbatista/NER-datasets",
+        "description": "Datasets to train supervised classifiers for Named-Entity Recognition in different languages (Portuguese, German, Dutch, French, English)",
+        "language": "Python",
+        "stars": 345,
+        "topics": []
+      },
+      {
+        "name": "MantisAI/nervaluate",
+        "url": "https://github.com/MantisAI/nervaluate",
+        "description": "Full named-entity (i.e., not tag/token) evaluation metrics based on SemEval’13",
+        "language": "Python",
+        "stars": 207,
+        "topics": []
+      },
+      {
+        "name": "Snowball",
+        "url": "https://github.com/davidsbatista/Snowball",
+        "description": "Implementation with some extensions of the paper \"Snowball: Extracting Relations from Large Plain-Text Collections\" (Agichtein and Gravano, 2000)",
+        "language": "Python",
+        "stars": 178,
+        "topics": []
+      },
+      {
+        "name": "BREDS",
+        "url": "https://github.com/davidsbatista/BREDS",
+        "description": "\"Bootstrapping Relationship Extractors with Distributional Semantics\" (Batista et al., 2015) in EMNLP'15 - Python implementation",
+        "language": "Python",
+        "stars": 142,
+        "topics": []
+      },
+      {
+        "name": "haystack-retrieval",
+        "url": "https://github.com/davidsbatista/haystack-retrieval",
+        "description": "Different retrieval techniques implemented in Haystack - presented at PyCon Lithuania 2025 🇱🇹",
+        "language": "Python",
+        "stars": 7,
+        "topics": []
+      },
+      {
+        "name": "NER-Evaluation",
+        "url": "https://github.com/davidsbatista/NER-Evaluation",
+        "description": "An implementation of a full named-entity evaluation metrics based on SemEval'13 Task 9 - not at tag/token level but considering all the tokens that are part of the named-entity",
+        "language": "Python",
+        "stars": 222,
+        "topics": [
+          "crfsuite",
+          "evaluation-metrics",
+          "named-entity-recognition",
+          "ner",
+          "ner-evaluation",
+          "notebook-jupyter",
+          "semeval",
+          "semeval-2013"
+        ]
+      },
+      {
+        "name": "Aspect-Based-Sentiment-Analysis",
+        "url": "https://github.com/davidsbatista/Aspect-Based-Sentiment-Analysis",
+        "description": "Aspect-Based Sentiment Analysis Experiments",
+        "language": "Python",
+        "stars": 133,
+        "topics": [
+          "aspect-based-sentiment-analysis",
+          "datasets",
+          "sentiment-analysis"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "ea580e63c4fac57267108a72d7f31018",
+    "source_type": "github",
+    "source_url": "https://github.com/tsterbak",
+    "title": "Tobias Sterbak - GitHub",
+    "text": "GitHub Profile: Tobias Sterbak (tsterbak)\nBio: Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer\nLocation: Berlin, Germany\nTop Languages: Python, Jupyter Notebook\n\nTop Projects:\n- openandroidinstaller-dev/openandroidinstaller (512 stars, Python): Makes installing alternative Android distributions nice and easy.\n- promptmage (115 stars, Python): simplifies the process of creating and managing LLM workflows.\n- biaslyze-dev/biaslyze (39 stars, Jupyter Notebook): The NLP Bias Identification Toolkit\n- pydataberlin-2019 (39 stars, Jupyter Notebook): This Repository contains the material for my tutorial \"Managing the end-to-end machine learning lifecycle with MLFlow\" at pyData/pyCon Berlin 2019.\n- pydataberlin-2022 (22 stars, Jupyter Notebook): This Repository contains the material for the tutorial \"Introduction to MLOps with MLflow\" held at pyData/pyCon Berlin 2022.\n- keras_attention (29 stars, Python): Contains an implementation of the attention mechanism and a keras text classifier wrapper.\n- keras_tta (22 stars, Python): Simple test time augmentation (TTA) for keras python library.\n- kernel_eca (13 stars, Python): Scikit-learn compatible Kernel Entropy Component Analysis in Python ",
+    "summary_hint": "Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer",
+    "emails": [],
+    "links": [
+      "https://tobiassterbak.com"
+    ],
+    "metadata": {
+      "page_title": "Tobias Sterbak - GitHub",
+      "meta_description": "Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer",
+      "content_markers": [],
+      "github_username": "tsterbak",
+      "profile_name": "Tobias Sterbak",
+      "company": "",
+      "location": "Berlin, Germany",
+      "blog": "https://tobiassterbak.com",
+      "scraping_status": "success",
+      "candidate_reasons": "github_profile_api",
+      "source_format": "github_api",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": [
+      {
+        "name": "openandroidinstaller-dev/openandroidinstaller",
+        "url": "https://github.com/openandroidinstaller-dev/openandroidinstaller",
+        "description": "Makes installing alternative Android distributions nice and easy.",
+        "language": "Python",
+        "stars": 512,
+        "topics": []
+      },
+      {
+        "name": "promptmage",
+        "url": "https://github.com/tsterbak/promptmage",
+        "description": "simplifies the process of creating and managing LLM workflows.",
+        "language": "Python",
+        "stars": 115,
+        "topics": []
+      },
+      {
+        "name": "biaslyze-dev/biaslyze",
+        "url": "https://github.com/biaslyze-dev/biaslyze",
+        "description": "The NLP Bias Identification Toolkit",
+        "language": "Jupyter Notebook",
+        "stars": 39,
+        "topics": []
+      },
+      {
+        "name": "pydataberlin-2019",
+        "url": "https://github.com/tsterbak/pydataberlin-2019",
+        "description": "This Repository contains the material for my tutorial \"Managing the end-to-end machine learning lifecycle with MLFlow\" at pyData/pyCon Berlin 2019.",
+        "language": "Jupyter Notebook",
+        "stars": 39,
+        "topics": []
+      },
+      {
+        "name": "pydataberlin-2022",
+        "url": "https://github.com/tsterbak/pydataberlin-2022",
+        "description": "This Repository contains the material for the tutorial \"Introduction to MLOps with MLflow\" held at pyData/pyCon Berlin 2022.",
+        "language": "Jupyter Notebook",
+        "stars": 22,
+        "topics": []
+      },
+      {
+        "name": "keras_attention",
+        "url": "https://github.com/tsterbak/keras_attention",
+        "description": "Contains an implementation of the attention mechanism and a keras text classifier wrapper.",
+        "language": "Python",
+        "stars": 29,
+        "topics": []
+      },
+      {
+        "name": "keras_tta",
+        "url": "https://github.com/tsterbak/keras_tta",
+        "description": "Simple test time augmentation (TTA) for keras python library.",
+        "language": "Python",
+        "stars": 22,
+        "topics": []
+      },
+      {
+        "name": "kernel_eca",
+        "url": "https://github.com/tsterbak/kernel_eca",
+        "description": "Scikit-learn compatible Kernel Entropy Component Analysis in Python ",
+        "language": "Python",
+        "stars": 13,
+        "topics": []
+      }
+    ]
+  },
+  {
+    "reference": "3ac2aaea7b48bf15d5b1ff9292d45416",
+    "source_type": "github",
+    "source_url": "https://github.com/bogdankostic",
+    "title": "bogdankostic - GitHub",
+    "text": "GitHub Profile: bogdankostic (bogdankostic)\nBio: Machine Learning Engineer\nLocation: Berlin, Germany\nTop Languages: MDX, Jupyter Notebook, Python\n\nTop Projects:\n- deepset-ai/haystack (24600 stars, MDX): Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing…\n- notion-exporter (19 stars, Python): 🚀 A Python package to seamlessly export your Notion pages to Markdown!\n- mmonimon/mensa-skill (4 stars, Python): This skill for Alexa provides information on the menu of German canteens.\n- Coreference-Resolution (4 stars, Python): A mention-pair coreference resolution system implemented in Python3.\n- TextClassification (0 stars, Python): A Python Library for simple text classification\n- fabiomolignoni/KDI-transport (0 stars, Python): Course project of \"Knowledge and Data Integration\" at UNITN - A.Y. 2019-2020\n- llm-prompt-perturbation (4 stars, Jupyter Notebook): Code accompanying the paper “Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation”\n- notion-haystack (1 stars, Python): 📓 A Haystack component to extract Notion pages to Documents.",
+    "summary_hint": "Machine Learning Engineer",
+    "emails": [],
+    "links": [],
+    "metadata": {
+      "page_title": "bogdankostic - GitHub",
+      "meta_description": "Machine Learning Engineer",
+      "content_markers": [],
+      "github_username": "bogdankostic",
+      "profile_name": "bogdankostic",
+      "company": "",
+      "location": "Berlin, Germany",
+      "blog": "",
+      "scraping_status": "success",
+      "candidate_reasons": "github_profile_api",
+      "source_format": "github_api",
+      "parse_ready": true,
+      "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+    },
+    "projects": [
+      {
+        "name": "deepset-ai/haystack",
+        "url": "https://github.com/deepset-ai/haystack",
+        "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing…",
+        "language": "MDX",
+        "stars": 24600,
+        "topics": []
+      },
+      {
+        "name": "notion-exporter",
+        "url": "https://github.com/bogdankostic/notion-exporter",
+        "description": "🚀 A Python package to seamlessly export your Notion pages to Markdown!",
+        "language": "Python",
+        "stars": 19,
+        "topics": []
+      },
+      {
+        "name": "mmonimon/mensa-skill",
+        "url": "https://github.com/mmonimon/mensa-skill",
+        "description": "This skill for Alexa provides information on the menu of German canteens.",
+        "language": "Python",
+        "stars": 4,
+        "topics": []
+      },
+      {
+        "name": "Coreference-Resolution",
+        "url": "https://github.com/bogdankostic/Coreference-Resolution",
+        "description": "A mention-pair coreference resolution system implemented in Python3.",
+        "language": "Python",
+        "stars": 4,
+        "topics": []
+      },
+      {
+        "name": "TextClassification",
+        "url": "https://github.com/bogdankostic/TextClassification",
+        "description": "A Python Library for simple text classification",
+        "language": "Python",
+        "stars": 0,
+        "topics": []
+      },
+      {
+        "name": "fabiomolignoni/KDI-transport",
+        "url": "https://github.com/fabiomolignoni/KDI-transport",
+        "description": "Course project of \"Knowledge and Data Integration\" at UNITN - A.Y. 2019-2020",
+        "language": "Python",
+        "stars": 0,
+        "topics": []
+      },
+      {
+        "name": "llm-prompt-perturbation",
+        "url": "https://github.com/bogdankostic/llm-prompt-perturbation",
+        "description": "Code accompanying the paper “Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation”",
+        "language": "Jupyter Notebook",
+        "stars": 4,
+        "topics": []
+      },
+      {
+        "name": "notion-haystack",
+        "url": "https://github.com/bogdankostic/notion-haystack",
+        "description": "📓 A Haystack component to extract Notion pages to Documents.",
+        "language": "Python",
+        "stars": 1,
+        "topics": []
+      }
+    ]
+  }
+]

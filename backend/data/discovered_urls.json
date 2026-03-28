@@ -1,0 +1,282 @@
+[
+  {
+    "url": "https://github.com/tfriedel",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 1)",
+    "confidence": 0.95
+  },
+  {
+    "url": "https://orcid.org/0000-0003-2589-1666",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 1)",
+    "confidence": 0.95
+  },
+  {
+    "url": "https://github.com/iamirmasoud",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 2)",
+    "confidence": 0.94
+  },
+  {
+    "url": "https://orcid.org/0009-0000-3993-5979",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 2)",
+    "confidence": 0.94
+  },
+  {
+    "url": "https://github.com/davidsbatista",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 3)",
+    "confidence": 0.93
+  },
+  {
+    "url": "https://orcid.org/0009-0008-7417-494X",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 3)",
+    "confidence": 0.93
+  },
+  {
+    "url": "https://github.com/yashgo0018",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 4)",
+    "confidence": 0.92
+  },
+  {
+    "url": "https://orcid.org/0009-0009-5823-2318",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 4)",
+    "confidence": 0.92
+  },
+  {
+    "url": "https://github.com/tsterbak",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 5)",
+    "confidence": 0.91
+  },
+  {
+    "url": "https://orcid.org/0009-0003-3062-4527",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 5)",
+    "confidence": 0.91
+  },
+  {
+    "url": "https://github.com/bogdankostic",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 6)",
+    "confidence": 0.9
+  },
+  {
+    "url": "https://orcid.org/0009-0005-4329-0700",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 6)",
+    "confidence": 0.9
+  },
+  {
+    "url": "https://github.com/tbung",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 7)",
+    "confidence": 0.89
+  },
+  {
+    "url": "https://orcid.org/0009-0000-9263-3494",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 7)",
+    "confidence": 0.89
+  },
+  {
+    "url": "https://github.com/oguzserbetci",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 8)",
+    "confidence": 0.88
+  },
+  {
+    "url": "https://orcid.org/0009-0006-6431-9311",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 8)",
+    "confidence": 0.88
+  },
+  {
+    "url": "https://github.com/zaverichintan",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 9)",
+    "confidence": 0.87
+  },
+  {
+    "url": "https://orcid.org/0009-0002-3224-7211",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 9)",
+    "confidence": 0.87
+  },
+  {
+    "url": "https://github.com/DanilBaibak",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 10)",
+    "confidence": 0.86
+  },
+  {
+    "url": "https://orcid.org/0009-0004-7088-497X",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 10)",
+    "confidence": 0.86
+  },
+  {
+    "url": "https://github.com/AlexElvers",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 11)",
+    "confidence": 0.85
+  },
+  {
+    "url": "https://orcid.org/0009-0004-6994-7777",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 11)",
+    "confidence": 0.85
+  },
+  {
+    "url": "https://github.com/megha144",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 12)",
+    "confidence": 0.84
+  },
+  {
+    "url": "https://orcid.org/0000-0003-4243-2082",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 12)",
+    "confidence": 0.84
+  },
+  {
+    "url": "https://github.com/boblannon",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 13)",
+    "confidence": 0.83
+  },
+  {
+    "url": "https://orcid.org/0009-0001-0918-4462",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 13)",
+    "confidence": 0.83
+  },
+  {
+    "url": "https://github.com/laermannjan",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 14)",
+    "confidence": 0.82
+  },
+  {
+    "url": "https://orcid.org/0000-0002-6720-3457",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 14)",
+    "confidence": 0.82
+  },
+  {
+    "url": "https://github.com/niyiomotoso",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 15)",
+    "confidence": 0.81
+  },
+  {
+    "url": "https://orcid.org/0009-0004-6640-0864",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 15)",
+    "confidence": 0.81
+  },
+  {
+    "url": "https://github.com/shayantabatabaee",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 16)",
+    "confidence": 0.8
+  },
+  {
+    "url": "https://orcid.org/0009-0005-1605-9087",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 16)",
+    "confidence": 0.8
+  },
+  {
+    "url": "https://github.com/arnab64",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 17)",
+    "confidence": 0.79
+  },
+  {
+    "url": "https://orcid.org/0000-0002-6208-8816",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 17)",
+    "confidence": 0.79
+  },
+  {
+    "url": "https://github.com/johnymephisto",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 18)",
+    "confidence": 0.78
+  },
+  {
+    "url": "https://orcid.org/0009-0006-9424-455X",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 18)",
+    "confidence": 0.78
+  },
+  {
+    "url": "https://github.com/dotKokott",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 19)",
+    "confidence": 0.77
+  },
+  {
+    "url": "https://orcid.org/0009-0001-6710-4109",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 19)",
+    "confidence": 0.77
+  },
+  {
+    "url": "https://github.com/TanyaIgnatenko",
+    "source_type": "github",
+    "discovery_query": "machine learning engineer location:berlin",
+    "reason": "GitHub profile detected (API match, rank 20)",
+    "confidence": 0.76
+  },
+  {
+    "url": "https://orcid.org/0000-0001-8760-0196",
+    "source_type": "orcid",
+    "discovery_query": "machine learning engineer",
+    "reason": "ORCID profile detected (API match, rank 20)",
+    "confidence": 0.76
+  }
+]
