@@ -1,0 +1,4 @@
+venv/
+mon_cv.pdf
+.env
+__pycache__/
