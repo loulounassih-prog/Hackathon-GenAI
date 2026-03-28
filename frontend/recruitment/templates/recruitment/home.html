@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HrFlow Dashboard</title>
+    <!-- Bootstrap CSS for clean UI -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        body { background-color: #f8f9fa; }
+        .card-custom { border: none; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 10px; margin-bottom: 20px;}
+        .card-header-custom { background-color: #ffffff; border-bottom: 2px solid #f1f1f1; font-weight: bold; border-radius: 10px 10px 0 0 !important;}
+        .skill-badge { background-color: #e9ecef; color: #495057; border-radius: 20px; padding: 5px 10px; font-size: 0.85rem; margin-right: 5px; margin-bottom: 5px; display: inline-block;}
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
+  <div class="container">
+    <a class="navbar-brand" href="#">
+        <i class="bi bi-briefcase-fill me-2"></i>HrFlow Recruitment
+    </a>
+  </div>
+</nav>
+
+<div class="container">
+    {% if error %}
+    <div class="alert alert-danger" role="alert">
+        <i class="bi bi-exclamation-triangle-fill me-2"></i>{{ error }}
+    </div>
+    {% endif %}
+
+    <div class="row">
+        <!-- Jobs Column -->
+        <div class="col-lg-6">
+            <h3 class="mb-3 text-secondary"><i class="bi bi-card-list me-2"></i>Active Jobs</h3>
+            
+            {% if jobs %}
+                {% for job in jobs %}
+                <div class="card card-custom">
+                    <div class="card-header card-header-custom d-flex justify-content-between align-items-center">
+                        <span class="fs-5 text-dark">{{ job.name }}</span>
+                        {% if job.location and job.location.text %}
+                            <span class="badge bg-info text-dark"><i class="bi bi-geo-alt-fill me-1"></i>{{ job.location.text }}</span>
+                        {% endif %}
+                    </div>
+                    <div class="card-body">
+                        <p class="text-muted small mb-2">Ref: {{ job.reference }}</p>
+                        <p class="card-text">{{ job.summary|truncatewords:20 }}</p>
+                        
+                        {% if job.skills %}
+                            <div class="mt-2">
+                                {% for skill in job.skills|slice:":5" %}
+                                    <span class="skill-badge">{{ skill.name }}</span>
+                                {% endfor %}
+                                {% if job.skills|length > 5 %}
+                                    <span class="skill-badge bg-light text-muted">+{{ job.skills|length|add:"-5" }} more</span>
+                                {% endif %}
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="alert alert-light text-center border">
+                    <i class="bi bi-inbox fs-1 text-muted"></i>
+                    <p class="mb-0 mt-2">No jobs found in the specified Board.</p>
+                </div>
+            {% endif %}
+        </div>
+
+        <!-- Applicants Column -->
+        <div class="col-lg-6">
+            <h3 class="mb-3 text-secondary"><i class="bi bi-people-fill me-2"></i>Recent Applicants (Profiles)</h3>
+
+            {% if profiles %}
+                {% for profile in profiles %}
+                <div class="card card-custom border-start border-4 border-success">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center mb-3">
+                            <div class="bg-success text-white rounded-circle d-flex align-items-center justify-content-center me-3" style="width: 50px; height: 50px; font-size: 1.5rem;">
+                                {{ profile.info.first_name|first|default:"" }}{{ profile.info.last_name|first|default:"?" }}
+                            </div>
+                            <div>
+                                <h5 class="card-title mb-0">
+                                    {{ profile.info.first_name|default:"Unknown" }} {{ profile.info.last_name|default:"Candidate" }}
+                                </h5>
+                                <small class="text-muted">{{ profile.info.email|default:"No email provided" }}</small>
+                            </div>
+                        </div>
+
+                        {% if profile.info.summary %}
+                            <p class="card-text small text-muted">{{ profile.info.summary|truncatewords:15 }}</p>
+                        {% endif %}
+
+                        {% if profile.skills %}
+                            <div class="mt-2">
+                                {% for skill in profile.skills|slice:":5" %}
+                                    <span class="skill-badge border border-success text-success bg-white">{{ skill.name }}</span>
+                                {% endfor %}
+                                {% if profile.skills|length > 5 %}
+                                    <span class="skill-badge bg-light text-muted">+{{ profile.skills|length|add:"-5" }} more</span>
+                                {% endif %}
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="alert alert-light text-center border">
+                    <i class="bi bi-file-earmark-person fs-1 text-muted"></i>
+                    <p class="mb-0 mt-2">No profiles found in the specified Source.</p>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
