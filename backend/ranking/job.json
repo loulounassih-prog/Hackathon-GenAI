@@ -1,0 +1,60 @@
+{
+    "name": "Data Scientist NLP",
+    "reference": "job_001",
+    "url": "https://company.com/jobs/data-scientist-nlp",
+    "summary": "Nous recherchons un Data Scientist spécialisé en NLP pour développer des modèles de traitement du langage naturel et améliorer nos produits basés sur l’IA.",
+  
+    "sections": [
+      {
+        "name": "job-description",
+        "title": "Description du poste",
+        "description": "Vous travaillerez sur des modèles de NLP, du fine-tuning de LLMs et des pipelines de données pour améliorer la compréhension du langage."
+      },
+      {
+        "name": "responsibilities",
+        "title": "Responsabilités",
+        "description": "Développer des modèles ML, analyser des données textuelles, collaborer avec les équipes produit."
+      }
+    ],
+  
+    "responsibilities": "Développement de modèles NLP, mise en production, collaboration avec équipes produit.",
+    "requirements": "Diplôme en informatique ou mathématiques, expérience en Python et machine learning.",
+    "benefits": "Salaire compétitif, télétravail, environnement innovant.",
+    "culture": "Entreprise dynamique orientée innovation et data-driven.",
+  
+    "location": {
+      "text": "Paris, France",
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+  
+    "skills": [
+        { "name": "Python", "value": 1 },
+        { "name": "Machine Learning", "value": 1 },
+        { "name": "NLP", "value": 1 }
+    ],
+  
+    "languages": [
+      { "name": "Français", "value": 1 },
+      { "name": "Anglais", "value": 1 }
+    ],
+  
+    "tasks": [
+      { "name": "Développement de modèles NLP", "value": 1 },
+      { "name": "Analyse de données textuelles", "value": 1 }
+    ],
+  
+    "certifications": [],
+    "courses": [],
+  
+    "tags": [
+      {
+        "name": "contract_type",
+        "value": "CDI"
+      },
+      {
+        "name": "industry",
+        "value": "AI"
+      }
+    ]
+  }

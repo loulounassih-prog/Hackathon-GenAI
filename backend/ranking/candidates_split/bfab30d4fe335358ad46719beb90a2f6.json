@@ -1,0 +1,39 @@
+{
+  "reference": "bfab30d4fe335358ad46719beb90a2f6",
+  "source_type": "public_web",
+  "source_url": "https://www.cs.cmu.edu/~tom/",
+  "title": "Tom Mitchell's Home Page",
+  "text": "How will they impact us all? As a longtime researcher in AI, I'm excited about the ways in\nwhich these new AI systems can improve our healthcare, education, climate and more. At the same\ntime, we need to think carefully about how to use them and how to prevent their misuse.\nI oppose recent suggestions that we simply ban their development, but I support and participate in\nefforts to anticipate their possible uses and impacts, and to help our leaders think through how\ngovernments should react.\nIt will be useful to regulate AI, but primarily at the application level. For example, AI\napplications to medical diagnosis should be regulated very differently from AI applications to\nself-driving cars.\nU.S. National Academies report\non AI and the Future of\nWork, study co-chairs Tom Mitchell and Erik Brynjolfsson, November 2024.\nA short fireside chat I had\nwith Reid Hoffman, moderated by Ryan Heath about what is next for Generative AI,\nfrom the SCSP Global Emerging Technology Summit, Washington D.C., September 21, 2023.\nHow can AI improve education? Watch my 2025 UCL Peter Kirstein lecture: Where Can AI Take Education by\n2030?. My thesis: this is the decade when AI will truly revolutionize online education. Why?\nBecause (1) for the first time we have finally have online education sites that have taught\nmillions of students, providing more training data showing how students learn, than a human\nteacher could ever see in a 100-year teaching career, and (2) recent AI advances in machine\nlearning, large natural language models, and reasoning give us the right tools to build AI agents\nthat tutor online students. ...\nHere are some problems I've been working on with my collaborators:\nUsing Large Language Models like GPT-4 to build new online education systems.\nLearning which teaching actions produce best learning outcomes. In January 2023 we deployed\nour trained model on the CK12.org platform, and it has\nnow been used well over a million times to choose the right hint for students struggling to\nanswer specific questions.\nHow does the brain represent language meaning? We collect images of brain activity while\nhuman subjects read text, then use machine learning to analyze how observed brain activity\nrepresents language meaning.\n...",
+  "summary_hint": "How will they impact us all? As a longtime researcher in AI, I'm excited about the ways in\nwhich these new AI systems can improve our healthcare, education, climate and more. At the same\ntime, we need to think carefully about how to use them and how to prevent their misuse.",
+  "emails": [
+    "Tom.Mitchell@cmu.edu"
+  ],
+  "links": [
+    "http://www.cs.cmu.edu/%7Etom/science2008/",
+    "http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html",
+    "https://www.cs.cmu.edu/directory/jteets",
+    "https://www.cs.cmu.edu/~tom/TomMitchell_PhDstudents.htm",
+    "https://www.cs.cmu.edu/~tom/podcast/",
+    "https://www.cs.cmu.edu/~tom/publications.html",
+    "http://statcounter.com/free-web-stats/",
+    "http://www.ml.cmu.edu"
+  ],
+  "metadata": {
+    "page_title": "Tom Mitchell's Home Page",
+    "meta_description": "",
+    "content_markers": [
+      "publications"
+    ],
+    "github_username": "",
+    "profile_name": "Tom Mitchell",
+    "company": "",
+    "location": "",
+    "blog": "",
+    "scraping_status": "success",
+    "candidate_reasons": "profile_path_and_keywords",
+    "source_format": "html",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": []
+}

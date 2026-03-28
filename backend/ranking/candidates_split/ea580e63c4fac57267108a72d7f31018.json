@@ -1,0 +1,93 @@
+{
+  "reference": "ea580e63c4fac57267108a72d7f31018",
+  "source_type": "github",
+  "source_url": "https://github.com/tsterbak",
+  "title": "Tobias Sterbak - GitHub",
+  "text": "GitHub Profile: Tobias Sterbak (tsterbak)\nBio: Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer\nLocation: Berlin, Germany\nTop Languages: Python, Jupyter Notebook\n\nTop Projects:\n- openandroidinstaller-dev/openandroidinstaller (512 stars, Python): Makes installing alternative Android distributions nice and easy.\n- promptmage (115 stars, Python): simplifies the process of creating and managing LLM workflows.\n- biaslyze-dev/biaslyze (39 stars, Jupyter Notebook): The NLP Bias Identification Toolkit\n- pydataberlin-2019 (39 stars, Jupyter Notebook): This Repository contains the material for my tutorial \"Managing the end-to-end machine learning lifecycle with MLFlow\" at pyData/pyCon Berlin 2019.\n- pydataberlin-2022 (22 stars, Jupyter Notebook): This Repository contains the material for the tutorial \"Introduction to MLOps with MLflow\" held at pyData/pyCon Berlin 2022.\n- keras_attention (29 stars, Python): Contains an implementation of the attention mechanism and a keras text classifier wrapper.\n- keras_tta (22 stars, Python): Simple test time augmentation (TTA) for keras python library.\n- kernel_eca (13 stars, Python): Scikit-learn compatible Kernel Entropy Component Analysis in Python ",
+  "summary_hint": "Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer",
+  "emails": [],
+  "links": [
+    "https://tobiassterbak.com"
+  ],
+  "metadata": {
+    "page_title": "Tobias Sterbak - GitHub",
+    "meta_description": "Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer",
+    "content_markers": [],
+    "github_username": "tsterbak",
+    "profile_name": "Tobias Sterbak",
+    "company": "",
+    "location": "Berlin, Germany",
+    "blog": "https://tobiassterbak.com",
+    "scraping_status": "success",
+    "candidate_reasons": "github_profile_api",
+    "source_format": "github_api",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": [
+    {
+      "name": "openandroidinstaller-dev/openandroidinstaller",
+      "url": "https://github.com/openandroidinstaller-dev/openandroidinstaller",
+      "description": "Makes installing alternative Android distributions nice and easy.",
+      "language": "Python",
+      "stars": 512,
+      "topics": []
+    },
+    {
+      "name": "promptmage",
+      "url": "https://github.com/tsterbak/promptmage",
+      "description": "simplifies the process of creating and managing LLM workflows.",
+      "language": "Python",
+      "stars": 115,
+      "topics": []
+    },
+    {
+      "name": "biaslyze-dev/biaslyze",
+      "url": "https://github.com/biaslyze-dev/biaslyze",
+      "description": "The NLP Bias Identification Toolkit",
+      "language": "Jupyter Notebook",
+      "stars": 39,
+      "topics": []
+    },
+    {
+      "name": "pydataberlin-2019",
+      "url": "https://github.com/tsterbak/pydataberlin-2019",
+      "description": "This Repository contains the material for my tutorial \"Managing the end-to-end machine learning lifecycle with MLFlow\" at pyData/pyCon Berlin 2019.",
+      "language": "Jupyter Notebook",
+      "stars": 39,
+      "topics": []
+    },
+    {
+      "name": "pydataberlin-2022",
+      "url": "https://github.com/tsterbak/pydataberlin-2022",
+      "description": "This Repository contains the material for the tutorial \"Introduction to MLOps with MLflow\" held at pyData/pyCon Berlin 2022.",
+      "language": "Jupyter Notebook",
+      "stars": 22,
+      "topics": []
+    },
+    {
+      "name": "keras_attention",
+      "url": "https://github.com/tsterbak/keras_attention",
+      "description": "Contains an implementation of the attention mechanism and a keras text classifier wrapper.",
+      "language": "Python",
+      "stars": 29,
+      "topics": []
+    },
+    {
+      "name": "keras_tta",
+      "url": "https://github.com/tsterbak/keras_tta",
+      "description": "Simple test time augmentation (TTA) for keras python library.",
+      "language": "Python",
+      "stars": 22,
+      "topics": []
+    },
+    {
+      "name": "kernel_eca",
+      "url": "https://github.com/tsterbak/kernel_eca",
+      "description": "Scikit-learn compatible Kernel Entropy Component Analysis in Python ",
+      "language": "Python",
+      "stars": 13,
+      "topics": []
+    }
+  ]
+}

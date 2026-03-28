@@ -1,0 +1,93 @@
+{
+  "reference": "5c463d79f4dff3c6c5cadad8e0f72992",
+  "source_type": "github",
+  "source_url": "https://github.com/tfriedel",
+  "title": "Thomas Friedel - GitHub",
+  "text": "GitHub Profile: Thomas Friedel (tfriedel)\nBio: Machine Learning Engineer\nCompany: PEAT\nLocation: Berlin\nTop Languages: Python, Java, C\n\nTop Projects:\n- trackanalyzer (61 stars, Java): java command line tool for estimating musical key and bpm of digital recordings, to aid DJs in harmonic mixing.\n- neural-image-assessment (21 stars, Python): Implementation of NIMA: Neural Image Assessment in Keras\n- python-lightify (18 stars, Python): Python module for Osram lightify. This is a work in progress.\n- foobar2000-export (14 stars, Java): I reverse engineered the foobar2000 database and playlist formats. You can export to m3u playlists for example.\n- tweethoarder (3 stars, Python): dumps twitter likes & bookmarks\n- blensor (2 stars, C): Blender Sensor Simulation\n- claude-office-skills (438 stars, Python): Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support\n- antigravity_prompts (25 stars): Reverse-engineered prompts and analysis from Antigravity (Google's VS Code fork with AI)",
+  "summary_hint": "Machine Learning Engineer",
+  "emails": [],
+  "links": [
+    "https://twitter.com/thomascygn"
+  ],
+  "metadata": {
+    "page_title": "Thomas Friedel - GitHub",
+    "meta_description": "Machine Learning Engineer",
+    "content_markers": [],
+    "github_username": "tfriedel",
+    "profile_name": "Thomas Friedel",
+    "company": "PEAT",
+    "location": "Berlin",
+    "blog": "https://twitter.com/thomascygn",
+    "scraping_status": "success",
+    "candidate_reasons": "github_profile_api",
+    "source_format": "github_api",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": [
+    {
+      "name": "trackanalyzer",
+      "url": "https://github.com/tfriedel/trackanalyzer",
+      "description": "java command line tool for estimating musical key and bpm of digital recordings, to aid DJs in harmonic mixing.",
+      "language": "Java",
+      "stars": 61,
+      "topics": []
+    },
+    {
+      "name": "neural-image-assessment",
+      "url": "https://github.com/tfriedel/neural-image-assessment",
+      "description": "Implementation of NIMA: Neural Image Assessment in Keras",
+      "language": "Python",
+      "stars": 21,
+      "topics": []
+    },
+    {
+      "name": "python-lightify",
+      "url": "https://github.com/tfriedel/python-lightify",
+      "description": "Python module for Osram lightify. This is a work in progress.",
+      "language": "Python",
+      "stars": 18,
+      "topics": []
+    },
+    {
+      "name": "foobar2000-export",
+      "url": "https://github.com/tfriedel/foobar2000-export",
+      "description": "I reverse engineered the foobar2000 database and playlist formats. You can export to m3u playlists for example.",
+      "language": "Java",
+      "stars": 14,
+      "topics": []
+    },
+    {
+      "name": "tweethoarder",
+      "url": "https://github.com/tfriedel/tweethoarder",
+      "description": "dumps twitter likes & bookmarks",
+      "language": "Python",
+      "stars": 3,
+      "topics": []
+    },
+    {
+      "name": "blensor",
+      "url": "https://github.com/tfriedel/blensor",
+      "description": "Blender Sensor Simulation",
+      "language": "C",
+      "stars": 2,
+      "topics": []
+    },
+    {
+      "name": "claude-office-skills",
+      "url": "https://github.com/tfriedel/claude-office-skills",
+      "description": "Office document creation and editing skills for Claude Code - PPTX, DOCX, XLSX, and PDF workflows with automation support",
+      "language": "Python",
+      "stars": 438,
+      "topics": []
+    },
+    {
+      "name": "antigravity_prompts",
+      "url": "https://github.com/tfriedel/antigravity_prompts",
+      "description": "Reverse-engineered prompts and analysis from Antigravity (Google's VS Code fork with AI)",
+      "language": "",
+      "stars": 25,
+      "topics": []
+    }
+  ]
+}

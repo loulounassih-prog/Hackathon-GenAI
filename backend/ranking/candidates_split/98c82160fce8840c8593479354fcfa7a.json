@@ -1,0 +1,106 @@
+{
+  "reference": "98c82160fce8840c8593479354fcfa7a",
+  "source_type": "github",
+  "source_url": "https://github.com/davidsbatista",
+  "title": "David S. Batista - GitHub",
+  "text": "GitHub Profile: David S. Batista (davidsbatista)\nBio: Software Developer | NLP Engineer | Machine Learning @deepset-ai \nCompany: @deepset-ai\nLocation: Berlin, Germany\nTop Languages: Python\n\nTop Projects:\n- Annotated-Semantic-Relationships-Datasets (705 stars): A collections of public and free annotated datasets of relationships between entities/nominals (Portuguese and English)\n- NER-datasets (345 stars, Python): Datasets to train supervised classifiers for Named-Entity Recognition in different languages (Portuguese, German, Dutch, French, English)\n- MantisAI/nervaluate (207 stars, Python): Full named-entity (i.e., not tag/token) evaluation metrics based on SemEval’13\n- Snowball (178 stars, Python): Implementation with some extensions of the paper \"Snowball: Extracting Relations from Large Plain-Text Collections\" (Agichtein and Gravano, 2000)\n- BREDS (142 stars, Python): \"Bootstrapping Relationship Extractors with Distributional Semantics\" (Batista et al., 2015) in EMNLP'15 - Python implementation\n- haystack-retrieval (7 stars, Python): Different retrieval techniques implemented in Haystack - presented at PyCon Lithuania 2025 🇱🇹\n- NER-Evaluation (222 stars, Python): An implementation of a full named-entity evaluation metrics based on SemEval'13 Task 9 - not at tag/token level but considering all the tokens that are part of the named-entity\n- Aspect-Based-Sentiment-Analysis (133 stars, Python): Aspect-Based Sentiment Analysis Experiments",
+  "summary_hint": "Software Developer | NLP Engineer | Machine Learning @deepset-ai ",
+  "emails": [],
+  "links": [
+    "https://www.davidsbatista.net"
+  ],
+  "metadata": {
+    "page_title": "David S. Batista - GitHub",
+    "meta_description": "Software Developer | NLP Engineer | Machine Learning @deepset-ai ",
+    "content_markers": [],
+    "github_username": "davidsbatista",
+    "profile_name": "David S. Batista",
+    "company": "@deepset-ai",
+    "location": "Berlin, Germany",
+    "blog": "https://www.davidsbatista.net",
+    "scraping_status": "success",
+    "candidate_reasons": "github_profile_api",
+    "source_format": "github_api",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": [
+    {
+      "name": "Annotated-Semantic-Relationships-Datasets",
+      "url": "https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets",
+      "description": "A collections of public and free annotated datasets of relationships between entities/nominals (Portuguese and English)",
+      "language": "",
+      "stars": 705,
+      "topics": []
+    },
+    {
+      "name": "NER-datasets",
+      "url": "https://github.com/davidsbatista/NER-datasets",
+      "description": "Datasets to train supervised classifiers for Named-Entity Recognition in different languages (Portuguese, German, Dutch, French, English)",
+      "language": "Python",
+      "stars": 345,
+      "topics": []
+    },
+    {
+      "name": "MantisAI/nervaluate",
+      "url": "https://github.com/MantisAI/nervaluate",
+      "description": "Full named-entity (i.e., not tag/token) evaluation metrics based on SemEval’13",
+      "language": "Python",
+      "stars": 207,
+      "topics": []
+    },
+    {
+      "name": "Snowball",
+      "url": "https://github.com/davidsbatista/Snowball",
+      "description": "Implementation with some extensions of the paper \"Snowball: Extracting Relations from Large Plain-Text Collections\" (Agichtein and Gravano, 2000)",
+      "language": "Python",
+      "stars": 178,
+      "topics": []
+    },
+    {
+      "name": "BREDS",
+      "url": "https://github.com/davidsbatista/BREDS",
+      "description": "\"Bootstrapping Relationship Extractors with Distributional Semantics\" (Batista et al., 2015) in EMNLP'15 - Python implementation",
+      "language": "Python",
+      "stars": 142,
+      "topics": []
+    },
+    {
+      "name": "haystack-retrieval",
+      "url": "https://github.com/davidsbatista/haystack-retrieval",
+      "description": "Different retrieval techniques implemented in Haystack - presented at PyCon Lithuania 2025 🇱🇹",
+      "language": "Python",
+      "stars": 7,
+      "topics": []
+    },
+    {
+      "name": "NER-Evaluation",
+      "url": "https://github.com/davidsbatista/NER-Evaluation",
+      "description": "An implementation of a full named-entity evaluation metrics based on SemEval'13 Task 9 - not at tag/token level but considering all the tokens that are part of the named-entity",
+      "language": "Python",
+      "stars": 222,
+      "topics": [
+        "crfsuite",
+        "evaluation-metrics",
+        "named-entity-recognition",
+        "ner",
+        "ner-evaluation",
+        "notebook-jupyter",
+        "semeval",
+        "semeval-2013"
+      ]
+    },
+    {
+      "name": "Aspect-Based-Sentiment-Analysis",
+      "url": "https://github.com/davidsbatista/Aspect-Based-Sentiment-Analysis",
+      "description": "Aspect-Based Sentiment Analysis Experiments",
+      "language": "Python",
+      "stars": 133,
+      "topics": [
+        "aspect-based-sentiment-analysis",
+        "datasets",
+        "sentiment-analysis"
+      ]
+    }
+  ]
+}

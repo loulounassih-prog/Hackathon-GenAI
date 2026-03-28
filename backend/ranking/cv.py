@@ -54,7 +54,8 @@ class CVManager:
 
     # prend en argument un fichier json et retourne un tableau de strings
     def parse_json_to_text(self, json_name):
-        data = json.load(open(json_name, "r"))
+        with open(json_name, "r", encoding="utf-8") as f:
+            data = json.load(f)
 
         def json_to_array_of_strings(data):
             result = []
@@ -183,3 +184,9 @@ class CVManager:
         profile = parsed.json()['data'][0]['profile']
         self.send_profile(profile)
         print("sent ", json_name)
+    
+
+    def send_from_directory(self, directory_path):
+        for file in os.listdir(directory_path):
+            if file.endswith(".json"):
+                self.send_json(os.path.join(directory_path, file))

@@ -1,0 +1,115 @@
+{
+  "reference": "10541bbd89516d2214ada3cc667f9dd9",
+  "source_type": "github",
+  "source_url": "https://github.com/iamirmasoud",
+  "title": "Amir Masoud Sefidian - GitHub",
+  "text": "GitHub Profile: Amir Masoud Sefidian (iamirmasoud)\nBio: Machine Learning Engineer\nCompany: Vinted\nLocation: Berlin\nTop Languages: Python, Jupyter Notebook\n\nTop Projects:\n- image_captioning (23 stars, Jupyter Notebook): Automatic Image Captioning using PyTorch on MS COCO dataset\n- bulkboto3 (19 stars, Python): Python package for fast and parallel transferring a bulk of files to S3 based on boto3!\n- facial_keypoint_detection (7 stars, Jupyter Notebook): Facial Keypoint Detection using PyTorch\n- pyspark_tutorials (6 stars, Jupyter Notebook): Machine Learning for Big Data using PySpark with real-world projects\n- amazon_sentiment (5 stars, Jupyter Notebook): Sentiment Analysis on Amazon Reviews Dataset in PyTorch\n- graph_slam (2 stars, Jupyter Notebook): 2D Landmark Detection & Robot Tracking using Offline and Online Graph SLAM (Simultaneous Localization and Mapping)\n- energy_consumption_prediction (69 stars, Jupyter Notebook): Energy consumption prediction using LSTM/GRU networks in PyTorch\n- image_deduplicator (5 stars, Jupyter Notebook): Find and remove duplicated or very similar images from a directory using PyTorch",
+  "summary_hint": "Machine Learning Engineer",
+  "emails": [],
+  "links": [
+    "http://www.sefidian.com/"
+  ],
+  "metadata": {
+    "page_title": "Amir Masoud Sefidian - GitHub",
+    "meta_description": "Machine Learning Engineer",
+    "content_markers": [],
+    "github_username": "iamirmasoud",
+    "profile_name": "Amir Masoud Sefidian",
+    "company": "Vinted",
+    "location": "Berlin",
+    "blog": "http://www.sefidian.com/",
+    "scraping_status": "success",
+    "candidate_reasons": "github_profile_api",
+    "source_format": "github_api",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": [
+    {
+      "name": "image_captioning",
+      "url": "https://github.com/iamirmasoud/image_captioning",
+      "description": "Automatic Image Captioning using PyTorch on MS COCO dataset",
+      "language": "Jupyter Notebook",
+      "stars": 23,
+      "topics": []
+    },
+    {
+      "name": "bulkboto3",
+      "url": "https://github.com/iamirmasoud/bulkboto3",
+      "description": "Python package for fast and parallel transferring a bulk of files to S3 based on boto3!",
+      "language": "Python",
+      "stars": 19,
+      "topics": []
+    },
+    {
+      "name": "facial_keypoint_detection",
+      "url": "https://github.com/iamirmasoud/facial_keypoint_detection",
+      "description": "Facial Keypoint Detection using PyTorch",
+      "language": "Jupyter Notebook",
+      "stars": 7,
+      "topics": []
+    },
+    {
+      "name": "pyspark_tutorials",
+      "url": "https://github.com/iamirmasoud/pyspark_tutorials",
+      "description": "Machine Learning for Big Data using PySpark with real-world projects",
+      "language": "Jupyter Notebook",
+      "stars": 6,
+      "topics": []
+    },
+    {
+      "name": "amazon_sentiment",
+      "url": "https://github.com/iamirmasoud/amazon_sentiment",
+      "description": "Sentiment Analysis on Amazon Reviews Dataset in PyTorch",
+      "language": "Jupyter Notebook",
+      "stars": 5,
+      "topics": []
+    },
+    {
+      "name": "graph_slam",
+      "url": "https://github.com/iamirmasoud/graph_slam",
+      "description": "2D Landmark Detection & Robot Tracking using Offline and Online Graph SLAM (Simultaneous Localization and Mapping)",
+      "language": "Jupyter Notebook",
+      "stars": 2,
+      "topics": []
+    },
+    {
+      "name": "energy_consumption_prediction",
+      "url": "https://github.com/iamirmasoud/energy_consumption_prediction",
+      "description": "Energy consumption prediction using LSTM/GRU networks in PyTorch",
+      "language": "Jupyter Notebook",
+      "stars": 69,
+      "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "energy-consumption",
+        "gru",
+        "lstm",
+        "prediction",
+        "python",
+        "pytorch",
+        "recurrent-neural-networks",
+        "time-series"
+      ]
+    },
+    {
+      "name": "image_deduplicator",
+      "url": "https://github.com/iamirmasoud/image_deduplicator",
+      "description": "Find and remove duplicated or very similar images from a directory using PyTorch",
+      "language": "Jupyter Notebook",
+      "stars": 5,
+      "topics": [
+        "cnn",
+        "computer-vision",
+        "convolutional-neural-networks",
+        "dbscan",
+        "deduplication",
+        "deep-learning",
+        "image-processing",
+        "machine-learning",
+        "python",
+        "pytorch"
+      ]
+    }
+  ]
+}

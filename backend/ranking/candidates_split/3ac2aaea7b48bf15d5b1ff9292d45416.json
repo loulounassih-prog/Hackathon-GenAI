@@ -1,0 +1,91 @@
+{
+  "reference": "3ac2aaea7b48bf15d5b1ff9292d45416",
+  "source_type": "github",
+  "source_url": "https://github.com/bogdankostic",
+  "title": "bogdankostic - GitHub",
+  "text": "GitHub Profile: bogdankostic (bogdankostic)\nBio: Machine Learning Engineer\nLocation: Berlin, Germany\nTop Languages: MDX, Jupyter Notebook, Python\n\nTop Projects:\n- deepset-ai/haystack (24600 stars, MDX): Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing…\n- notion-exporter (19 stars, Python): 🚀 A Python package to seamlessly export your Notion pages to Markdown!\n- mmonimon/mensa-skill (4 stars, Python): This skill for Alexa provides information on the menu of German canteens.\n- Coreference-Resolution (4 stars, Python): A mention-pair coreference resolution system implemented in Python3.\n- TextClassification (0 stars, Python): A Python Library for simple text classification\n- fabiomolignoni/KDI-transport (0 stars, Python): Course project of \"Knowledge and Data Integration\" at UNITN - A.Y. 2019-2020\n- llm-prompt-perturbation (4 stars, Jupyter Notebook): Code accompanying the paper “Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation”\n- notion-haystack (1 stars, Python): 📓 A Haystack component to extract Notion pages to Documents.",
+  "summary_hint": "Machine Learning Engineer",
+  "emails": [],
+  "links": [],
+  "metadata": {
+    "page_title": "bogdankostic - GitHub",
+    "meta_description": "Machine Learning Engineer",
+    "content_markers": [],
+    "github_username": "bogdankostic",
+    "profile_name": "bogdankostic",
+    "company": "",
+    "location": "Berlin, Germany",
+    "blog": "",
+    "scraping_status": "success",
+    "candidate_reasons": "github_profile_api",
+    "source_format": "github_api",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": [
+    {
+      "name": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing…",
+      "language": "MDX",
+      "stars": 24600,
+      "topics": []
+    },
+    {
+      "name": "notion-exporter",
+      "url": "https://github.com/bogdankostic/notion-exporter",
+      "description": "🚀 A Python package to seamlessly export your Notion pages to Markdown!",
+      "language": "Python",
+      "stars": 19,
+      "topics": []
+    },
+    {
+      "name": "mmonimon/mensa-skill",
+      "url": "https://github.com/mmonimon/mensa-skill",
+      "description": "This skill for Alexa provides information on the menu of German canteens.",
+      "language": "Python",
+      "stars": 4,
+      "topics": []
+    },
+    {
+      "name": "Coreference-Resolution",
+      "url": "https://github.com/bogdankostic/Coreference-Resolution",
+      "description": "A mention-pair coreference resolution system implemented in Python3.",
+      "language": "Python",
+      "stars": 4,
+      "topics": []
+    },
+    {
+      "name": "TextClassification",
+      "url": "https://github.com/bogdankostic/TextClassification",
+      "description": "A Python Library for simple text classification",
+      "language": "Python",
+      "stars": 0,
+      "topics": []
+    },
+    {
+      "name": "fabiomolignoni/KDI-transport",
+      "url": "https://github.com/fabiomolignoni/KDI-transport",
+      "description": "Course project of \"Knowledge and Data Integration\" at UNITN - A.Y. 2019-2020",
+      "language": "Python",
+      "stars": 0,
+      "topics": []
+    },
+    {
+      "name": "llm-prompt-perturbation",
+      "url": "https://github.com/bogdankostic/llm-prompt-perturbation",
+      "description": "Code accompanying the paper “Same Meaning, Different Scores: Lexical and Syntactic Sensitivity in LLM Evaluation”",
+      "language": "Jupyter Notebook",
+      "stars": 4,
+      "topics": []
+    },
+    {
+      "name": "notion-haystack",
+      "url": "https://github.com/bogdankostic/notion-haystack",
+      "description": "📓 A Haystack component to extract Notion pages to Documents.",
+      "language": "Python",
+      "stars": 1,
+      "topics": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "reference": "8e8606812cf98595a66cdfa486d7b150",
+  "source_type": "public_web",
+  "source_url": "https://tiangolo.com/",
+  "title": "tiangolo's boring personal website",
+  "text": "Hey! I'm @tiangolo (Sebastián Ramírez). \nYou are probably looking for my open source projects.\nI'm a software developer from Colombia. 🇨🇴\nI currently live in Berlin, Germany. 🇩🇪\nI created FastAPI, Typer, SQLModel, Asyncer, and a bunch of other open source tools. 🚀\nI have been building APIs and tools for Machine Learning and data systems, in the Americas, the Middle East, and Europe, with different teams and organizations. 🌎\nI'm now working full time on my open source projects and the ecosystem. 🤓",
+  "summary_hint": "I'm @tiangolo (Sebastián Ramírez). \nYou are probably looking for my open source projects. I'm a software developer from Colombia.",
+  "emails": [],
+  "links": [
+    "https://tiangolo.com/projects/",
+    "https://asyncer.tiangolo.com",
+    "https://fastapi.tiangolo.com",
+    "https://sqlmodel.tiangolo.com",
+    "https://twitter.com/tiangolo",
+    "https://typer.tiangolo.com"
+  ],
+  "metadata": {
+    "page_title": "tiangolo's boring personal website",
+    "meta_description": "Stuff by tiangolo",
+    "content_markers": [],
+    "github_username": "",
+    "profile_name": "Sebastián Ramírez",
+    "company": "",
+    "location": "Berlin, Germany",
+    "blog": "",
+    "scraping_status": "success",
+    "candidate_reasons": "strong_first_person_bio",
+    "source_format": "html",
+    "parse_ready": true,
+    "parse_readiness_reasons": "Ready for HrFlow Profile Parsing"
+  },
+  "projects": []
+}
